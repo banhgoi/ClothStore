@@ -1,4 +1,5 @@
 ## Website bán quần áo online
+- <p>Account: username: admin / password: 123456</p>
 - <p>Các chức năng chính</p>
 - <p>Admin: Đăng nhập, đăng  xuất, quản lý sản phẩm: loại sản phẩm, mẫu mã, quản lý hóa đơn nhập, hóa đơn bán.</p>
 - <p>Client: Xem sản phẩm, lọc sản phẩm, thêm sản phẩm vào giỏ hàng, cập nhật giỏ hàng, thanh toán</p>
